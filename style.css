@@ -1,0 +1,49 @@
+.fundo-index {
+  background-image: url(./assets/indexImages/fundo.jpg);
+  max-width: 800px;
+  width: 100%;
+  margin: auto;
+}
+.fundo-pagina {
+  background-color: azure;
+  padding: 22px;
+}
+.cabecalho {
+  text-align: center;
+  font-size: 20pt;
+}
+.padrao-de-texto {
+  text-align: center;
+  font-size: 14pt;
+}
+.primeiro-texto {
+  text-align: justify;
+}
+.foto-index {
+  text-align: center;
+}
+.foto-casal {
+  max-width: 100%;
+  min-width: 300px;
+  height: auto;
+}
+.segundo-texto {
+  text-align: justify;
+}
+.padrao-link {
+  text-align: center;
+  margin-bottom: 20px;
+}
+.link-presentes {
+  font-size: 30px;
+  background-color: #f44336;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+a:hover,
+a:active {
+  background-color: lightskyblue;
+}
